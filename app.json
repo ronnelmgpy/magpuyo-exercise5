@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MagpuyoExer5",
-    "slug": "MagpuyoExer5",
+    "name": "magpuyo5",
+    "slug": "magpuyo5",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "magpuyoexer5",
+    "scheme": "magpuyo5",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
